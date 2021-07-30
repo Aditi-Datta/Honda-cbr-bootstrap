@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top-section{
+    background-color: #264653;
+}
+.button{
+    background-color: #e76f51;
+    border: none;
+}
+.coustomized-color{
+    color:#e76f51;
+}
+.gray_css img{
+    filter: grayscale(100%);
+}
+.gray_css img:hover{
+    filter: grayscale(0%);
+}
+.name-color{ 
+    color: #1a87b3;
+}
+.banker{
+    color: #130224e0;
+}
+.round-img{
+    border-radius: 50%;
+    height: 200px;
+}
+.coustomized-bg{
+    color: darkgreen;
+}
+.btn-submit{
+
+    /* background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%); */
+    background-color:navy;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+
+}
+#last-section{
+    background-color: lightblue;
+} 
